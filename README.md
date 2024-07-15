@@ -13,7 +13,7 @@ Being on top of our schedule is something we all want. We can use google calenda
   - The first column has the event/task title   
   - The second column has the event/task description  
   - The third column has the Start date and time and the fourth column has the End date and time.  
-  - For the third and fourth column the date and time format should be dd/mm/yyyy 00:00 or mm/dd/yyyy 00:00 (whichever format is recognised as a date in google sheets). With the time following the 24 hour clock. Example if an event starts on July 17, 2024 , 6:30 pm. Then write it as 17/07/2024 18:30 or 07/17/2024.  
+  - For the third and fourth column the date and time format should be dd/mm/yyyy 00:00 or mm/dd/yyyy 00:00 (whichever format is recognised as a date in google sheets). With the time following the 24 hour clock. Example if an event starts on July 17, 2024 , 6:30 pm. Then write it as 17/07/2024 18:30 or 07/17/2024 18:30.  
   - Make sure to keep the 5th column empty (except the header) as it serves a different purpose.  
 - Now after filling your data, click on ‘Extensions’ from the menu bar.  
 - Then click on Apps Script
